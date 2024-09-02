@@ -1,0 +1,69 @@
+1. What is the name of the price index published by The Economist since 1986?
+   A. Big Mac Index
+   B. GDP Index
+   C. PPP Index
+   D. Market Index
+Answer: A. Big Mac Index
+
+2. Which of the following is NOT a limitation of the Big Mac Index?
+   A. Geographical coverage
+   B. Social status of eating at fast food restaurants
+   C. Theoretical reason for PPPs being different from market exchange rates
+   D. Currency values
+Answer: D. Currency values
+
+3. According to the Big Mac Index, what does an implied exchange rate greater than the actual exchange rate indicate?
+   A. The currency is undervalued
+   B. The currency is overvalued
+   C. The currency is stable
+   D. The currency is fluctuating
+Answer: B. The currency is overvalued
+
+4. Which of the following is a variant of the Big Mac Index?
+   A. Tall Latte Index
+   B. KFC Index
+   C. iPod Index
+   D. All of the above
+Answer: D. All of the above
+
+5. What is the name of the online tool released by Trusaic in 2022?
+   A. Big Mac Pay Gap Index
+   B. Big Mac Index
+   C. PPP Index
+   D. GDP Index
+Answer: A. Big Mac Pay Gap Index
+
+6. Which of the following is NOT a reason for the limitations of the Big Mac Index?
+   A. Non-tradable goods and services
+   B. Social status of eating at fast food restaurants
+   C. High-margin products
+   D. Currency values
+Answer: D. Currency values
+
+7. Which country has the most expensive Big Mac according to the July 2023 statistic?
+   A. Switzerland
+   B. Norway
+   C. Uruguay
+   D. Argentina
+Answer: A. Switzerland
+
+8. What is the name of the newspaper that stated "Moreno loses the battle"?
+   A. The Economist
+   B. The New York Times
+   C. Buenos Aires newspaper
+   D. None of the above
+Answer: C. Buenos Aires newspaper
+
+9. What is the name of the index created solely for Africa?
+   A. KFC Index
+   B. Big Mac Index
+   C. PPP Index
+   D. GDP Index
+Answer: A. KFC Index
+
+10. Which of the following is a limitation of the Big Mac Index?
+    A. The price of a Big Mac is reflective of relative currency values
+    B. The Big Mac Index is limited by geographical coverage
+    C. The price of a Big Mac is the same in all countries
+    D. The Big Mac Index is not affected by social status
+Answer: B. The Big Mac Index is limited by geographical coverage

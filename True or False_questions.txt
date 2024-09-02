@@ -1,0 +1,29 @@
+1. True or False: The Big Mac Index was introduced in The Economist in September 1986.
+Answer: True
+
+2. True or False: The Big Mac Index is used to measure GDP.
+Answer: False
+
+3. True or False: The Big Mac Index is published annually by The Economist.
+Answer: True
+
+4. True or False: The Big Mac Index compares the relative price worldwide to purchase a Big Mac.
+Answer: True
+
+5. True or False: The Big Mac Index is limited by geographical coverage due to the presence of McDonald's franchise.
+Answer: True
+
+6. True or False: A single Big Mac is used to measure the purchasing power parity (PPP) between two currencies.
+Answer: True
+
+7. True or False: The Big Mac Index is used to calculate an implied exchange rate between two currencies.
+Answer: True
+
+8. True or False: The Big Mac Index is a legitimate tool for exchange rate evaluation.
+Answer: False
+
+9. True or False: The Big Mac Index is now globally recognized and featured in many academic textbooks and reports.
+Answer: True
+
+10. True or False: The Big Mac Index provides a method to analyze a currency's level of under/over-valuation against a base currency.
+Answer: True
